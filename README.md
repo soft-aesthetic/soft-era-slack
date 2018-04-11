@@ -6,11 +6,6 @@
 
 ---
 
-🎨 **Hex values:**
-```
-#f9f5f5,#F5EDED,#eceafa,#a29acb,#f5eded,#c3adad,#cfc9f4,#cb8dd7
-```
-
 ![soft era syntax theme screenshot](screenshot.png)
 
 ~.~
@@ -23,6 +18,11 @@
 <br>&nbsp;&nbsp;take care of the people around you
 
 ## Installation
+
+🎨 **Hex values:**
+```
+#f9f5f5,#F5EDED,#eceafa,#a29acb,#f5eded,#c3adad,#cfc9f4,#cb8dd7
+```
 
 Instructions, as of time of writing:
 - In Slack, go to **Preferences > Sidebar > Additional Options**
