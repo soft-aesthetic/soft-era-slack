@@ -31,7 +31,7 @@
 
 - In a Slack chat window, paste in the **hex values** listed above.
 - Press Enter/Return to send the message.
-- You message will be displayed with color previews, and a button to **Switch sidebar theme**!
+- Your message will be displayed with color previews, and a button to **Switch sidebar theme**!
   - Others can see this message. If you wish to do this privately, do it in a Direct Message to yourself or to a bot.
 
 ---
