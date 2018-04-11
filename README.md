@@ -27,7 +27,7 @@
 - In Slack, go to **Preferences > Sidebar > Additional Options**
 - In the bottom text field that says "Copy and paste these values to share your custom theme with others:", paste in the **hex values** listed above.
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;or
+&nbsp;&nbsp;&nbsp;&nbsp;**or**
 
 - In a Slack chat window, paste in the **hex values** listed above.
 - Press Enter/Return to send the message.
