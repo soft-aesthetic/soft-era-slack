@@ -29,10 +29,10 @@ or
 - Press Enter/Return to send the message.
 - You message will be displayed with color previews, and a button to **Switch sidebar theme**!
   - Others can see this message. If you wish to do this privately, do it in a Direct Message to yourself or to a bot.
-<br><br>
-💾 enjoy <3
 
 ---
+
+💾 enjoy <3
 
 Happy to hear any input <3
 
