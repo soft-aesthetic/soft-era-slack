@@ -4,11 +4,14 @@
 
 🌸 Light pastel syntax theme for cozy, cute coding. 🌱
 
+---
+
+🎨 **Hex values:**
 ```
 #f9f5f5,#F5EDED,#eceafa,#a29acb,#f5eded,#c3adad,#cfc9f4,#cb8dd7
 ```
 
-<!-- ![soft era syntax theme screenshot](screenshot.png) -->
+![soft era syntax theme screenshot](screenshot.png)
 
 ~.~
 <br>&nbsp;&nbsp;a soft, warm, low contrast theme,
