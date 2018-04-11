@@ -15,6 +15,8 @@
 <br>&nbsp;&nbsp;make the world your kinda place.
 <br>&nbsp;&nbsp;take care of the people around you
 
+🌿
+
 ## Installation / usage
 
 🎨 **Hex values:**
