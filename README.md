@@ -2,7 +2,7 @@
 
 ### syntax theme for [Slack](https://slack.com/)
 
-🌸 Light pastel syntax theme for cozy, cute coding. 🌱
+🌸 Light pastel syntax theme for cozy, cute coding & typing. 🌱
 
 ---
 
