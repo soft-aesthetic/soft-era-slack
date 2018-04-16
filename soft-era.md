@@ -1,1 +1,1 @@
-#282A36,#44475A,#44475A,#8BE9FD,#6272A4,#FFFFFF,#50FA7B,#FF5555
+#f9f5f5,#F5EDED,#eceafa,#a29acb,#f5eded,#c3adad,#cfc9f4,#cb8dd7
