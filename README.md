@@ -21,7 +21,7 @@
 
 🎨 **Hex values:**
 ```
-#f9f5f5,#F5EDED,#eceafa,#a29acb,#f5eded,#ba989c,#cfc9f4,#cb8dd7
+#f9f5f5,#F5EDED,#e4bcbf,#ffffff,#f5eded,#c29ba3,#cfc9f4,#dd698c
 ```
 
 - In Slack, go to **Preferences > Sidebar > Additional Options**
